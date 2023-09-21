@@ -1025,3 +1025,17 @@ body {
 .compartilharitem{
   display: none;
 }
+.prof-nomes{
+  font-size: 18px;
+  width: 500px;
+  position: absolute;
+  left: 550px;
+  top: 71px;
+  text-align: left;
+}
+.prof-1{
+  width: 398px;
+}
+.prof-2{
+  width: 398px;
+}
