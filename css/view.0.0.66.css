@@ -1034,8 +1034,17 @@ body {
   text-align: left;
 }
 .prof-1{
-  width: 398px;
+  /*width: 398px;*/
+  text-align: center;
 }
 .prof-2{
   width: 398px;
+}
+.prof-top{
+  font-size: 40px;
+  width: 100%;
+  position: absolute;
+  /*left: 550px;*/
+  top: -310px;
+  text-align: center;
 }
